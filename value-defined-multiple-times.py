@@ -5,7 +5,7 @@ def multiple_definitions_if(value, flag):
     if flag:
         foo = "bar"
     else:
-        foo = "baz"
+        foo = "baz bza"
 
     print(foo)
 
